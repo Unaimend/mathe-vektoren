@@ -13,7 +13,7 @@ namespace math
     public:
         math::Vektor mStuetzVektor;
         math::Vektor mRichtungsVektor;
-		double ding;
+        float ding;
 		math::Vektor getPoint();
     };
 
